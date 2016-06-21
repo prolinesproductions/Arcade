@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3489133854
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f64e43e8881817f1b6c746a45e4427b7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6c32efe6957ea69e9bc0d2363d439fef
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Mods/Arcade Pack/Arcade Pack@Claw Machine.prefab
+- Assets/Mods/Arcade Pack/Arcade Pack@coin (1).prefab
+- Assets/Mods/Arcade Pack/Arcade Pack@pinball (1).prefab
+- Assets/Mods/Arcade Pack/Arcade Pack@arcade machine.prefab
+- Assets/Mods/Arcade Pack/Arcade Pack@pooltable.prefab
+- Assets/Mods/Arcade Pack/Arcade Pack@basket.prefab
+- Assets/Mods/Arcade Pack/Arcade Pack@skeeball.prefab
+- Assets/Mods/Arcade Pack/Arcade Pack@air hockey.prefab
+Dependencies: []

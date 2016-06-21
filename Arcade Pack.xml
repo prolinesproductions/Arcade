@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ModName>Arcade Pack</ModName>
+  <ModDiscription>Adds 8 different arcade machines to your park!</ModDiscription>
+  <Objects>
+    <Object>
+      <OBJName>Arcade Pack@air hockey</OBJName>
+      <Type>deco</Type>
+      <inGameName>Air Hockey</inGameName>
+      <price>150</price>
+      <grid>false</grid>
+      <snapCenter>true</snapCenter>
+      <category>Arcade</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Arcade Pack@arcade machine</OBJName>
+      <Type>deco</Type>
+      <inGameName>Arcade Machine</inGameName>
+      <price>125</price>
+      <grid>false</grid>
+      <snapCenter>true</snapCenter>
+      <category>Arcade</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Arcade Pack@basket</OBJName>
+      <Type>deco</Type>
+      <inGameName>Basketball</inGameName>
+      <price>125</price>
+      <grid>false</grid>
+      <snapCenter>true</snapCenter>
+      <category>Arcade</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Arcade Pack@skeeball</OBJName>
+      <Type>deco</Type>
+      <inGameName>Skeeball</inGameName>
+      <price>115</price>
+      <grid>false</grid>
+      <snapCenter>true</snapCenter>
+      <category>Arcade</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Arcade Pack@pooltable</OBJName>
+      <Type>deco</Type>
+      <inGameName>Pool Table</inGameName>
+      <price>100</price>
+      <grid>false</grid>
+      <snapCenter>true</snapCenter>
+      <category>Arcade</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>Arcade Pack@pinball (1)</OBJName>
+      <Type>deco</Type>
+      <inGameName>Pinball</inGameName>
+      <price>125</price>
+      <grid>false</grid>
+      <snapCenter>true</snapCenter>
+      <category>Arcade</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Arcade Pack@coin (1)</OBJName>
+      <Type>deco</Type>
+      <inGameName>Coin Pusher</inGameName>
+      <price>100</price>
+      <grid>false</grid>
+      <snapCenter>true</snapCenter>
+      <category>Arcade</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>Arcade Pack@Claw Machine</OBJName>
+      <Type>deco</Type>
+      <inGameName>Claw Machine</inGameName>
+      <price>150</price>
+      <grid>false</grid>
+      <snapCenter>true</snapCenter>
+      <category>Arcade</category>
+      <heightDelta>0.5</heightDelta>
+      <gridSubdivision>1</gridSubdivision>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+  </Objects>
+</Mod>
