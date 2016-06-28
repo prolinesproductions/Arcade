@@ -3,7 +3,7 @@
 "CompilerVersion":"v3.5",
 "IsDevelopment":true,
 "IsEnabled":true,
-"Name":"Arcade Pack",
+"Name":"Arcade Set",
 "Project":"ModSparkLoader.csproj",
 "Dependencies":["ParkitectNexus/Depender"]
 }

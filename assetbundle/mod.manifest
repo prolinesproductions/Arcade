@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3489133854
+CRC: 1617849929
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f64e43e8881817f1b6c746a45e4427b7
+    Hash: 35edf0930c08de5f3367d0a8026b0e1a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 6c32efe6957ea69e9bc0d2363d439fef
@@ -30,12 +30,15 @@ ClassTypes:
 - Class: 95
   Script: {instanceID: 0}
 Assets:
-- Assets/Mods/Arcade Pack/Arcade Pack@Claw Machine.prefab
-- Assets/Mods/Arcade Pack/Arcade Pack@coin (1).prefab
-- Assets/Mods/Arcade Pack/Arcade Pack@pinball (1).prefab
-- Assets/Mods/Arcade Pack/Arcade Pack@arcade machine.prefab
-- Assets/Mods/Arcade Pack/Arcade Pack@pooltable.prefab
-- Assets/Mods/Arcade Pack/Arcade Pack@basket.prefab
-- Assets/Mods/Arcade Pack/Arcade Pack@skeeball.prefab
-- Assets/Mods/Arcade Pack/Arcade Pack@air hockey.prefab
+- Assets/Mods/Arcade Set/Arcade Set@arcade machine.prefab
+- Assets/Mods/Arcade Set/Arcade Set@pinball.prefab
+- Assets/Mods/Arcade Set/Arcade Set@car.prefab
+- Assets/Mods/Arcade Set/Arcade Set@change.prefab
+- Assets/Mods/Arcade Set/Arcade Set@car (1).prefab
+- Assets/Mods/Arcade Set/Arcade Set@coin.prefab
+- Assets/Mods/Arcade Set/Arcade Set@Claw Machine.prefab
+- Assets/Mods/Arcade Set/Arcade Set@skeeball.prefab
+- Assets/Mods/Arcade Set/Arcade Set@basket.prefab
+- Assets/Mods/Arcade Set/Arcade Set@pooltable.prefab
+- Assets/Mods/Arcade Set/Arcade Set@air hockey.prefab
 Dependencies: []
